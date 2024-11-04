@@ -30,7 +30,7 @@ Zomato is among the top online food delivery platforms, providing users with rat
 
 ## 🔗 Links
 
- - [Github Link](
+ - [Github Link](https://github.com/devrajnayak04
  - [Kaggle Dataset link](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
  - [Application Link]
 
@@ -56,7 +56,7 @@ Python, Pandas, Numpy, Matplotlib, Scikit-learn, Streamlit, Git
 
 ## Run Locally
 
-Clone the project
+Clone the project https://github.com/devrajnayak04/DineScore---Restaurant-Rating-Prediction-.git
 
 ```bash
   git clone 
