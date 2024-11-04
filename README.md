@@ -30,7 +30,7 @@ Zomato is among the top online food delivery platforms, providing users with rat
 
 ## 🔗 Links
 
- - [Github Link](https://github.com/devrajnayak04
+ - [Github Link](https://github.com/devrajnayak04)
  - [Kaggle Dataset link](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
  - [Application Link]
 
